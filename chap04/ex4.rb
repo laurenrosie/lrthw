@@ -1,7 +1,7 @@
 # Total number of cars in fleet
 cars = 100
 # The number of passengers a car can take
-space_in_a_car = 4
+space_in_a_car = 4.0
 # Number of drivers working today
 drivers = 30
 # Number of passengers using the service today
