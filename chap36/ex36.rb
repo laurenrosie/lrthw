@@ -81,7 +81,6 @@ def win(player)
   puts "Lucky you!"
 end
 
-
 def play_game(player)
   puts "Welcome to the game, #{player}!"
   puts "Unfortunately you chose a rather dangerous game to play..."
